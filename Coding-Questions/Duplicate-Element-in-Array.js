@@ -5,5 +5,6 @@ const ans = arr.filter((item,index,array) =>{
 })
 console.log(ans);
 
+// The output will be [2,8]
 
 // Index of always gives the first index at which the element occurse
