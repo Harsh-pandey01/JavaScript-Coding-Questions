@@ -12,3 +12,9 @@ const mini = arr.reduce((prev,curr) =>{
 })
 
 console.log(`${maxi} and ${mini}`);
+
+
+
+// method 2
+const maxi2 = Math.max(...arr)
+console.log(maxi2)
